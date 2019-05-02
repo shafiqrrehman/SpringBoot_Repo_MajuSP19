@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_noteapplication-master",
+  "version": "1.0.0",
+  "description": "\"A command line interface (CLI) note application developed using Node.js. This application focuses on Node.js fundamentals.",
+  "main": "\"",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "note-app"
+  ],
+  "author": "Shafiq ur Rehman (FA17-MSCS-0039)",
+  "license": "ISC"
+}
